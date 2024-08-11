@@ -63,7 +63,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the application in ac
 
 ## 💬 Feedback
 
-If you have any feedback or questions, feel free to open an issue on [GitHub](https://github.com/your-username/my-nextjs-app/issues).
+If you have any feedback or questions, feel free to open an issue on [GitHub](https://github.com/charus-dev/Frontend-Workshop-NextJs/issues).
 
 ## 📧 Contact
 
